@@ -10,5 +10,5 @@ In this Project I have used LogisticRegression model to predict whether a person
 
 During the Project I dealt with nan values and fake rows. I also made some changes in other values regarding other features such as (signs, education, or diet) by making groups of them. I made some charts as well (pie plots, histograms, count plots) in order to have a clearer picture of the data we got. Manual and automatic label generation was also a part of the transformation (np.where(), replace(), LabelEncoder()), and data Standardizing. 
 
-The used models can have better performance (for example choose other (more or less) features as better predictors, or with tuning hyperparameters) 
+The used models can have better performance (for example choose other (more or less) features as better predictors, or with tuning hyperparameters).
 
